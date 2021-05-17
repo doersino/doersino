@@ -1,3 +1,5 @@
+🏡 To find out more about my projects and me-as-a-person, go and visit my website at [noahdoersing.com](https://noahdoersing.com).
+
 📫 Want to get in touch? Feel free to drop me an email to the address that the following JavaScript snippet evaluates to.
 
 ```js
