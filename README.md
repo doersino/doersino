@@ -19,4 +19,4 @@
 })("zbp.tavferbqunba@vu");
 ```
 
-🖋 Your physical mailbox is hungry for a pen-plotted postcard? [Toss me a coin](https://paypal.me/noah) and make sure to put down your address in the message field!
+🖋 Your physical mailbox is hungry for a [pen-plotted postcard](https://github.com/doersino/genuary2022)? Well, [toss me a coin](https://paypal.me/noah) and make sure to put down your address in the message field!
